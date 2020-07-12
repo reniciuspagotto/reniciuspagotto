@@ -12,5 +12,6 @@ Here something about me:
 - :zap: Community Lead - Itu Developers
 
 #### Follow me on my social networks:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/renicius-pagotto/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@alexalvess)](https://medium.com/@renicius.pagotto)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/reniciuspagotto)](https://github.com/reniciuspagotto)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renicius-pagotto)](https://www.linkedin.com/in/renicius-pagotto/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@renicius.pagotto)](https://medium.com/@renicius.pagotto)
