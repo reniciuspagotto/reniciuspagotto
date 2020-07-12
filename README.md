@@ -1,12 +1,12 @@
-# Renicius Pagotto Fostaini 🤓
+# Renicius Pagotto Fostaini :wink:
 
-## Hello 👋! Welcome to my profile!
+## Welcome to my profile! :collision:
 
 Here something about me:
 
-- 🔭 I’m a Software Developer by passion
-- 💜 In love with C#
-- ❤️ In love JavaScript, TypeScript and Node.js too
+- :computer: I’m a Software Developer by passion
+- :heartpulse: In love with C#
+- :heartpulse: In love JavaScript, TypeScript and Node.js too
 - :memo: Writer
 - :microphone: Speaker
 - :zap: Community Lead - Itu Developers
