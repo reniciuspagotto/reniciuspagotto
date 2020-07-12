@@ -1,16 +1,16 @@
-### Hi there 👋
+# Renicius Pagotto Fostaini 🤓
 
-<!--
-**reniciuspagotto/reniciuspagotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello 👋! Welcome to my profile!
 
-Here are some ideas to get you started:
+Here something about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m a Software Developer by passion
+- 💜 In love with C#
+- ❤️ In love JavaScript, TypeScript and Node.js too
+- :memo: Writer
+- :microphone: Speaker
+- :zap: Community Lead - Itu Developers
+
+#### Follow me on my social networks:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/renicius-pagotto/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@alexalvess)](https://medium.com/@renicius.pagotto)
