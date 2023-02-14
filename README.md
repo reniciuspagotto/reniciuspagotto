@@ -8,7 +8,7 @@ Here something about me:
 - :heartpulse: In love with C#, Java, Kotlin and Node.js
 - :memo: Writer
 - :microphone: Speaker
-- :zap: Community Lead - Itu Developers
+- :zap: Co-founder and Community Leader - Itu Developers
 
 #### Follow me on my social networks:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renicius-pagotto)](https://www.linkedin.com/in/renicius-pagotto/)
