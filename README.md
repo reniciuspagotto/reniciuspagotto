@@ -5,8 +5,7 @@
 Here something about me:
 
 - :computer: I’m a Software Developer by passion
-- :heartpulse: In love with C#
-- :heartpulse: In love JavaScript, TypeScript and Node.js too
+- :heartpulse: In love with C#, Java, Kotlin and Node.js
 - :memo: Writer
 - :microphone: Speaker
 - :zap: Community Lead - Itu Developers
