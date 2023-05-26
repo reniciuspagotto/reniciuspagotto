@@ -9,7 +9,7 @@ Here something about me:
 - :memo: Writer
 - :microphone: Speaker
 - :zap: Co-founder and Community Leader - Itu Developers
-- 🏆: Microsoft MVP and Microsoft Student Ambassador (Gold)
+- 🏆 Microsoft MVP and Microsoft Student Ambassador (Gold)
 
 #### Follow me on my social networks:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renicius-pagotto)](https://www.linkedin.com/in/renicius-pagotto/)
