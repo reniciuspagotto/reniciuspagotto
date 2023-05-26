@@ -4,11 +4,12 @@
 
 Here something about me:
 
-- :computer: I’m a Software Developer by passion
-- :heartpulse: In love with C#, Java, Kotlin and Node.js
+- :computer: Software Architect, Platform Engineer, Cloud Engineer
+- :heartpulse: C#, Java, Kotlin
 - :memo: Writer
 - :microphone: Speaker
 - :zap: Co-founder and Community Leader - Itu Developers
+- :award: Microsoft MVP and Microsoft Student Ambassador (Gold)
 
 #### Follow me on my social networks:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renicius-pagotto)](https://www.linkedin.com/in/renicius-pagotto/)
