@@ -9,6 +9,7 @@ Here something about me:
 - :memo: Writer
 - :microphone: Speaker
 - :zap: Co-founder and Community Leader - Itu Developers
+- :zap: Azure Community Leader - DOUGBR
 - 🏆 Microsoft MVP
 
 #### Follow me on my social networks:
