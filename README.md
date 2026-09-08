@@ -5,7 +5,7 @@
 Here something about me:
 
 - :computer: Solutions Architect, Software Developer, Azure Specialist
-- :heartpulse: C#, Java, Kotlin
+- :heartpulse: C#, Java
 - :memo: Writer
 - :microphone: Speaker
 - :zap: Co-founder and Community Leader - Itu Developers
