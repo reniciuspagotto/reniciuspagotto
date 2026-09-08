@@ -4,13 +4,13 @@
 
 Here something about me:
 
-- :computer: Software Architect, Platform Engineer, Cloud Engineer
+- :computer: Solutions Architect, Software Developer, Azure Specialist
 - :heartpulse: C#, Java, Kotlin
 - :memo: Writer
 - :microphone: Speaker
 - :zap: Co-founder and Community Leader - Itu Developers
 - :zap: Azure Community Leader - DOUGBR
-- 🏆 Microsoft MVP
+- 🏆 Microsoft MVP (Azure and DevOps)
 
 #### Follow me on my social networks:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renicius-pagotto)](https://www.linkedin.com/in/renicius-pagotto/)
